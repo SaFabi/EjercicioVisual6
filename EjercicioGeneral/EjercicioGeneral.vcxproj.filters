@@ -35,6 +35,7 @@
     </ClInclude>
     <ClInclude Include="AngelDlg.h">
     <ClInclude Include="JavierDlg.h">
+    <ClInclude Include="Ejercico6Dlg.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -51,8 +52,12 @@
     <ClCompile Include="WintemplaWin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="AngelDlg.cpp">
     <ClCompile Include="JavierDlg.cpp">
+=======
+    <ClCompile Include="Ejercico6Dlg.cpp">
+>>>>>>> origin/jesus
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -71,4 +76,8 @@
       <Filter>Resource Files</Filter>
     </Manifest>
   </ItemGroup>
+<<<<<<< HEAD
 </Project>
+=======
+</Project>
+>>>>>>> origin/jesus

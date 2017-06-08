@@ -2,6 +2,7 @@
 #include "Resource.h"
 #include "AngelDlg.h"
 #include "JavierDlg.h"
+#include "Ejercico6Dlg.h"
 class EjercicioGeneral : public Win::Dialog
 {
 public:
