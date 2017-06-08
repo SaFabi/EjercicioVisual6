@@ -34,6 +34,7 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="AngelDlg.h">
+    <ClInclude Include="JavierDlg.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -51,6 +52,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="AngelDlg.cpp">
+    <ClCompile Include="JavierDlg.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
