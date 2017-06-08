@@ -24,6 +24,8 @@ void EjercicioGeneral::btJesus_Click(Win::Event& e)
 
 void EjercicioGeneral::btAngel_Click(Win::Event& e)
 {
+	AngelDlg objAngel;
+	objAngel.BeginDialog(hWnd);
 }
 
 void EjercicioGeneral::btFabi_Click(Win::Event& e)
