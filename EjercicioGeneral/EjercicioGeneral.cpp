@@ -12,6 +12,8 @@ void EjercicioGeneral::Window_Open(Win::Event& e)
 
 void EjercicioGeneral::btJavier_Click(Win::Event& e)
 {
+	JavierDlg objDlg;
+	objDlg.BeginDialog(hWnd);
 }
 
 void EjercicioGeneral::btMolina_Click(Win::Event& e)
